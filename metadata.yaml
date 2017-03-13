@@ -1,5 +1,5 @@
 _repo: Beyond-Good-and-Evil_4363
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Zimmern, Helen
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1466'
     url: http://www.gutenberg.org/2009/agents/1466
     wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -30,6 +33,8 @@ description: "Beyond Good and Evil: Prelude to a Philosophy of the Future (Germa
   \ destructive critique in favour of what he regards as an affirmative approach that\
   \ fearlessly confronts the perspectival nature of knowledge and the perilous condition\
   \ of the modern individual.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4363#Beyond-Good-and-Evil
 gutenberg_bookshelf:
 - Philosophy
 - Atheism
